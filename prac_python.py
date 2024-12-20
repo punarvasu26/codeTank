@@ -1,0 +1,2 @@
+#practicing python
+print("hello")
